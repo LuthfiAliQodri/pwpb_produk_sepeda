@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Aplikasi Produk Sepeda</string>
+    <string name="merk">POLYGON SEPEDA VANDER 20</string>
+    <string name="stok">10 Stok tersisa</string>
+    <string name="desc">Sepeda Anak Polygon Vander 20 dilengkapi dengan frame Alutech 6061 full-suspension,
+                        Groupset Shimano 12sp, discbrake depan dan belakang, dan roda alloy 20</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="framesize">• Frame Size</string>
+    <string name="content_size">13\'\'</string>
+    <string name="box">• What in the box</string>
+    <string name="content_box">1 x Polygon Sepeda Vander 20</string>
+    <string name="brand">• Brand</string>
+    <string name="content_brand">Polygon</string>
+    <string name="frame">• Frame</string>
+    <string name="content_frame">Alutech Suspension Frame</string>
+    <string name="fork">• Fork</string>
+    <string name="content_fork">Zoom Bravo Suspension Fork</string>
+    <string name="rear">• Rear Shock</string>
+    <string name="content_rear">KS-20A</string>
+    <string name="head">• Head Set</string>
+    <string name="content_head">FSA TH-888</string>
+    <string name="steam">• Steam</string>
+    <string name="content_steam">Steel</string>
+    <string name="handle">• Handlebar</string>
+    <string name="content_handle">Steel</string>
+    <string name="reard">• Rear Derailleur</string>
+    <string name="content_reard">Shimano Tourney RD-TY21</string>
+    <string name="front">• Front Derailleur</string>
+    <string name="content_front">Shimano Tourney FD-TZ30</string>
+    <string name="shif">• Shifter</string>
+    <string name="content_shif">Shimano Tourney SL-RS36</string>
+    <string name="chain">• Chain</string>
+    <string name="content_chain">KMC Z-33</string>
+    <string name="pedal">• Pedal</string>
+    <string name="content_pedal">PP PEDAL</string>
+    <string name="brake">• Brake</string>
+    <string name="content_brake">Alloy Mechanical Discbrake</string>
+    <string name="tire">• Tire</string>
+    <string name="content_tire">Kenda Kwick 20x2.00</string>
+    <string name="saddle">• Saddle</string>
+    <string name="content_saddle">Polygon Saddle</string>
+    <string name="seat">• Seat Post</string>
+    <string name="content_seat">Steel</string>
+    <string name="wheel">• Wheel Size</string>
+    <string name="content_wheel">20"</string>
+    <string name="warna">• Warna</string>
+    <string name="content_warna">Black</string>
+    <string name="note">• Note</string>
+    <string name="content_note">Spesifikasi, warna dan ketersediaan produk dapat berubah\n
+        sewaktu-waktu tanpa pemberitahuan sebelumnya.</string>
+    <string name="dijual_oleh">Penjual</string>
+    <string name="nama">Luthfi Ali Qodri</string>
+    <string name="size">Size Chart</string>
+    <string name="info">Info Pembayaran</string>
+</resources>
